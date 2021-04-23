@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloRelacionalProyectoBBDDSQL.log" id="4B94493C-6A58-E394-FFE4-BB99003BF3EC" version="3.5">
+<createdBy>DAVID</createdBy>
+<createdTime>2021-04-20 16:00:50 UTC</createdTime>
+<ownerDesignName>ModeloRelacionalProyectoBBDDSQL.log</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>4B94493C-6A58-E394-FFE4-BB99003BF3EC</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="58D0667B-044D-3ABE-E218-15317E809DE1">
+<designStoragePath>C:\</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
